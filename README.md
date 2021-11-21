@@ -1,2 +1,2 @@
 # PHP-FullCalendar-PHPMailler-Toplanti-Olusturma-Uygulamasi
- PHP ve MySQL kullanılarak oluşturulmuş toplantı oluşturma uygulaması projesi
+ Outlook, PHP, FullCalendar, PHPMailler, JS- JQuery kullanılarak oluşturulmuş toplantı oluşturma uygulaması projesi
